@@ -1,8 +1,8 @@
 const hitung = require("./hitung");
 
 function persegi(x, y) {
-  x = 50;
-  y = 50;
+  x = 5;
+  y = 5;
   console.log(
     "Luas dari bangun persegi dengan sisi x = " +
       x +
@@ -16,7 +16,7 @@ persegi();
 
 function persegiPanjang(x, y) {
   x = 20;
-  y = 40;
+  y = 10;
   console.log(
     "Luas dari bangun persegi panjang dengan sisi x = " +
       x +
