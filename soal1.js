@@ -1,8 +1,5 @@
 const hitung = require("./hitung");
 
-let x;
-let y;
-
 function persegi(x, y) {
   x = 50;
   y = 50;
