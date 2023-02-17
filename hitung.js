@@ -7,6 +7,10 @@
 //   luasPersegi: luasPersegi,
 // };
 
-exports.kali = function (x, y) {
+exports.luas = function (x, y) {
   return x * y;
+};
+
+exports.keliling = function (x, y) {
+  return x * 2 + y * 2;
 };

@@ -9,7 +9,7 @@ function persegi(x, y) {
       " dan sisi y = " +
       y +
       " sama dengan " +
-      hitung.kali(x, y)
+      hitung.luas(x, y)
   );
 }
 persegi();
@@ -23,7 +23,7 @@ function persegiPanjang(x, y) {
       " dan sisi y = " +
       y +
       " sama dengan " +
-      hitung.kali(x, y)
+      hitung.luas(x, y)
   );
 }
 persegiPanjang();
